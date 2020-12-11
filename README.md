@@ -1,1 +1,1 @@
-# plant-lamo.github.io
+# plant-lamp.github.io
